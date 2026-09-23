@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,100:3DDC84&text=Divyam%20Patel&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=First-Year%20BSc%20IT%20Student&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Divyam jabbar" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,100:3DDC84&text=Divyam%20Jabbar&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=First-Year%20BSc%20IT%20Student&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Divyam jabbar" />
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=3DDC84&center=true&vCenter=true&width=560&lines=Learning+C+Programming;Improving+Problem+Solving+Skills;Building+New+Projects;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" alt="Typing SVG" />
