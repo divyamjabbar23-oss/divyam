@@ -1,162 +1,167 @@
-# 👋 Hey, I'm **Divyam Jabbar**
+<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C+Language+Developer;Student+%7C+Tech+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%9A%80" alt="Typing Animation" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyamjabbar23-oss&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,100:3DDC84&text=Divyam%20Patel&fontColor=ffffff&fontSize=64&fontAlignY=36&desc=First-Year%20BSc%20IT%20Student&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Divyam jabbar" />
 
----
-
-## 💻 About Me
-
-I'm **Divyam Jabbar**, a student who enjoys learning programming and building projects with **C language**.
-
-```text
-💻 Coding
-📚 Learning
-🧠 Exploring
-🚀 Building
-🎯 Improving
-```
-
-- 👨‍💻 Currently learning and working with **C**
-- 🧠 Interested in programming and technology
-- 📚 Always learning something new
-- 🎯 Improving my coding skills one project at a time
-- 🚀 Exploring new technologies and ideas
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="C Language" />
-</p>
-
-<p align="center">
-  <b>⚡ Main Skill: C Language</b>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyamjabbar23-oss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyamjabbar23-oss&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=divyamjabbar23-oss&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyamjabbar23-oss&theme=tokyo-night&hide_border=true&area=true&radius=16" width="100%" />
-</p>
-
----
-
-## ⚡ Coding Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=divyamjabbar23-oss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-```text
-                    🚀 C PROGRAMMING
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-      Variables         Conditions        Loops
-          │                │                │
-       Functions        Arrays           Pointers
-          │                │                │
-          └────────────────┼────────────────┘
-                           │
-                      Structures
-                           │
-                           ▼
-                    💻 BUILD PROJECTS
-```
-
-### 📚 Learning Path
-
-<p align="center">
-
-`Variables` ➜ `Conditions` ➜ `Loops` ➜ `Functions`
-
-⬇️
-
-`Arrays` ➜ `Pointers` ➜ `Structures`
-
-⬇️
-
-**🚀 Projects**
-
-</p>
-
----
-
-## 🎯 2026 Goals
-
-| Goal | Progress |
-|------|----------|
-| 📌 Improve C programming | 🔄 Learning |
-| 📌 Build more projects | 🔄 In Progress |
-| 📌 Contribute to GitHub | 🔄 In Progress |
-| 📌 Learn new technologies | 🔄 Exploring |
-| 📌 Grow as a developer | 🚀 Always |
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/divyamjabbar23-oss">
-  <img src="https://img.shields.io/badge/GitHub-divyamjabbar23--oss-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=3DDC84&center=true&vCenter=true&width=560&lines=Learning+C+Programming;Improving+Problem+Solving+Skills;Building+New+Projects;Learning+%E2%80%A2+Building+%E2%80%A2+Growing" alt="Typing SVG" />
 </a>
 
-<a href="https://www.linkedin.com/in/divyam-jabbar-a70a55438/">
-  <img src="https://img.shields.io/badge/LinkedIn-Divyam%20Jabbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<br/>
+
+<a href="https://www.linkedin.com/in/nitya-patel-534991418">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3DDC84" alt="LinkedIn" />
 </a>
 
-</p>
+</div>
 
----
+<br/>
 
-## 💭 Developer Mindset
+<!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=7EE787&center=true&vCenter=true&width=650&lines=Keep+coding.;Keep+learning.;Keep+building.;One+project+at+a+time.+%F0%9F%9A%80" alt="Developer Mindset" />
-</p>
+<h2 align="center">About Me</h2>
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer" width="100%" />
-</p>
+🎓 First-Year BSc IT Student  
+🌱 Currently improving my programming and problem-solving skills  
+📚 Always learning and building new projects  
+📚 Learning • Building • Growing  
+🚀 Focused on continuous growth  
+🎯 Goal: Become a skilled IT professional
 
-<p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-</p>
+</div>
 
-<p align="center">
-  <i>Made with 💻 + ☕ + curiosity</i>
-</p>
+<br/>
+
+<!-- ═══════════════════════════════ WHAT I DO ═══════════════════════════════ -->
+
+<h2 align="center">What I Do</h2>
+
+<table align="center">
+
+<tr>
+<td>💻</td>
+<td><b>Learning</b></td>
+<td>C programming and fundamental programming concepts</td>
+</tr>
+
+<tr>
+<td>🧠</td>
+<td><b>Practising</b></td>
+<td>Problem-solving, logical thinking and programming practice</td>
+</tr>
+
+<tr>
+<td>📚</td>
+<td><b>Exploring</b></td>
+<td>Computer fundamentals, web technologies and new IT concepts</td>
+</tr>
+
+<tr>
+<td>🚀</td>
+<td><b>Building</b></td>
+<td>Small projects to improve my practical IT skills</td>
+</tr>
+
+<tr>
+<td>🤝</td>
+<td><b>Open to</b></td>
+<td>Learning, collaborating and working on student projects</td>
+</tr>
+
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════ TECH STACK ═══════════════════════════════ -->
+
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+
+<b>Languages</b>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />
+
+<br/><br/>
+
+<b>Currently Learning</b>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=html,css,git,github&theme=dark" alt="Technologies" />
+
+<br/><br/>
+
+<b>Tools</b>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=vscode,github&theme=dark" alt="Tools" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════ GITHUB STATS ═══════════════════════════════ -->
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=divyamjabbar23&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3DDC84&icon_color=3DDC84&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyamjabbar23&layout=compact&hide_border=true&bg_color=0D1117&title_color=3DDC84&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=divyamjabbar23&hide_border=true&background=0D1117&ring=3DDC84&fire=3DDC84&currStreakLabel=3DDC84&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyamjabbar23&bg_color=0D1117&color=c9d1d9&line=3DDC84&point=ffffff&area=true&area_color=3DDC84&hide_border=true" width="95%" alt="Contribution graph" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=divyamjabbar23&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════ CONTRIBUTION SNAKE ═══════════════════════════════ -->
+
+<h2 align="center">Contribution Graph</h2>
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyamjabbar23/divyamjabbar23/output/github-contribution-grid-snake-dark.svg" />
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyamjabbar23/divyamjabbar23/output/github-contribution-grid-snake.svg" />
+
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/Nitya6433/divyamjabbar23/output/github-contribution-grid-snake.svg" width="95%" />
+
+</picture>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Nitya6433&color=3DDC84&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:3DDC84" width="100%" alt="" />
+
+</div>
 
